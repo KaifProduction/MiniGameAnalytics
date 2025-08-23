@@ -1,0 +1,2 @@
+obj\Debug\net8.0/Reports.cs \
+obj\Debug\net8.0/ReportsGrpc.cs: Grpc/reports.proto

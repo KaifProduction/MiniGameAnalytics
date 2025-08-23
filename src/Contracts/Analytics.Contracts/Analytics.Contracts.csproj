@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Google.Protobuf" Version="3.25.3" />
+        <PackageReference Include="Grpc.Core.Api" Version="2.71.0" />
+        <PackageReference Include="Grpc.Tools" Version="2.65.0" PrivateAssets="all" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Protobuf Include="Grpc\ingest.proto" GrpcServices="Server;Client" ProtoRoot="Grpc" />
+        <Protobuf Include="Grpc\reports.proto" GrpcServices="Server;Client" ProtoRoot="Grpc" />
+    </ItemGroup>
+    
+</Project>

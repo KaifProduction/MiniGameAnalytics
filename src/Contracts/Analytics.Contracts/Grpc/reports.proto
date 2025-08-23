@@ -1,0 +1,11 @@
+syntax = "proto3";
+package analytics.reports.v1;
+option csharp_namespace = "Analytics.Contracts.Grpc.Reports.V1";
+
+message Range { string from = 1; string to = 2; string gameId = 3; }
+message DauPoint { string date = 1; int64 users = 2; }
+message DauResponse { repeated DauPoint points = 1; }
+
+service ReportsService {
+  rpc GetDAU (Range) returns (DauResponse);
+}

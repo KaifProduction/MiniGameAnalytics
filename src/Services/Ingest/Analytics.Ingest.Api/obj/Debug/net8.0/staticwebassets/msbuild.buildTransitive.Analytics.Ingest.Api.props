@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Analytics.Ingest.Api.props" />
+</Project>

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WoVKq52gMD0cbSEU74sRS7Hk4WCOs0CahTOMAkRW7lA=",
+  "Source": "Analytics.Ingest.Api",
+  "BasePath": "_content/Analytics.Ingest.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

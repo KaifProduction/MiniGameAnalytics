@@ -1,0 +1,18 @@
+syntax = "proto3";
+package analytics.ingest.v1;
+option csharp_namespace = "Analytics.Contracts.Grpc.Ingest.V1";
+
+message GameEvent {
+  string eventId = 1;
+  string gameId = 2;
+  string userId = 3;
+  string sessionId = 4;
+  string eventType = 5;
+  int64 timestampUtcUnixMs = 6;
+  map<string,string> props = 7;
+}
+message Ack { bool accepted = 1; }
+
+service IngestService {
+  rpc SendEvent (GameEvent) returns (Ack);
+}

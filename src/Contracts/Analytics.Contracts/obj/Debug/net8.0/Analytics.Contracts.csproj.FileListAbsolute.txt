@@ -1,0 +1,12 @@
+C:\Users\Staser\RiderProjects\MiniGameAnalytics\src\Contracts\Analytics.Contracts\bin\Debug\net8.0\Analytics.Contracts.deps.json
+C:\Users\Staser\RiderProjects\MiniGameAnalytics\src\Contracts\Analytics.Contracts\bin\Debug\net8.0\Analytics.Contracts.dll
+C:\Users\Staser\RiderProjects\MiniGameAnalytics\src\Contracts\Analytics.Contracts\bin\Debug\net8.0\Analytics.Contracts.pdb
+C:\Users\Staser\RiderProjects\MiniGameAnalytics\src\Contracts\Analytics.Contracts\obj\Debug\net8.0\Analytics.Contracts.csproj.AssemblyReference.cache
+C:\Users\Staser\RiderProjects\MiniGameAnalytics\src\Contracts\Analytics.Contracts\obj\Debug\net8.0\Analytics.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Staser\RiderProjects\MiniGameAnalytics\src\Contracts\Analytics.Contracts\obj\Debug\net8.0\Analytics.Contracts.AssemblyInfoInputs.cache
+C:\Users\Staser\RiderProjects\MiniGameAnalytics\src\Contracts\Analytics.Contracts\obj\Debug\net8.0\Analytics.Contracts.AssemblyInfo.cs
+C:\Users\Staser\RiderProjects\MiniGameAnalytics\src\Contracts\Analytics.Contracts\obj\Debug\net8.0\Analytics.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Staser\RiderProjects\MiniGameAnalytics\src\Contracts\Analytics.Contracts\obj\Debug\net8.0\Analytics.Contracts.dll
+C:\Users\Staser\RiderProjects\MiniGameAnalytics\src\Contracts\Analytics.Contracts\obj\Debug\net8.0\refint\Analytics.Contracts.dll
+C:\Users\Staser\RiderProjects\MiniGameAnalytics\src\Contracts\Analytics.Contracts\obj\Debug\net8.0\Analytics.Contracts.pdb
+C:\Users\Staser\RiderProjects\MiniGameAnalytics\src\Contracts\Analytics.Contracts\obj\Debug\net8.0\ref\Analytics.Contracts.dll
