@@ -19,6 +19,11 @@ $RECYCLE.BIN/
 *.sln.iml
 *.iws
 *.ipr
+*.nuget.info
+.idea/
+
+# Compiler caches
+*.AssemblyInfoInputs.cache
 
 ### Visual Studio / .NET ###
 .vs/
